@@ -1,0 +1,41 @@
+.centro {
+  text-align: center;
+  background-color: #E2DFDF;
+  margin-top: 20px;
+  padding: 40px;
+}
+
+.peque {
+  font-size: 12px;
+}
+
+.marginj {
+  margin-top: 15px;
+}
+
+.fondoblanco {
+  background-color: #fff;
+  margin-left: 165px;
+  margin-right: 165px;
+}
+.padding {
+  margin-bottom: 30px;
+}
+h1{
+  font-size: 55px;
+}
+h4 {
+  color: #6F6E6E;
+}
+
+hr {
+  color: #F2F2F2;
+}
+.footer {
+  margin-top: 30px;
+  color: #6F6E6E;
+  font-size: 12px;
+}
+div ul li {
+  background-color: #fff;
+}
